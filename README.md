@@ -1,22 +1,23 @@
 # nn-framework
  My implementation of NN framework.
 
-# Short framework components description
- Layers:
- 	- Dense
- 	- Dropout
- 	- Reshape
- 	- Flatten
+## Short framework components description
 
- Activation functions:
- 	- Sigmoid
- 	- Softmax
- 	- ReLU
- 	- TanH
- 	- LeakyReLU
+### Layers:
+- Dense
+- Dropout
+- Reshape
+- Flatten
 
- Loss:
- 	- Crossentropy
+### Activation functions:
+- Sigmoid
+- Softmax
+- ReLU
+- TanH
+- LeakyReLU
 
- Optimizer:
- 	- Adam
+### Loss:
+- Crossentropy
+
+### Optimizer:
+- Adam
